@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">CPK MOBILE</string>
+    <string name="open_nav">Open Navigation Drawer</string>
+    <string name="close_nav">Close Navigation Drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!--Navigation Menu -->
+    <string name="dosen">Dosen</string>
+    <string name="logout">LogOut</string>
+    <string name="profile">Profile</string>
+    <string name="mahasiswa">Mahasiswa</string>
+
+    <!-- Data Dosen -->
+    <string name="indra_gita_anugrah">Indra Gita Anugrah, S.Kom., M.Kom</string>
+    <string name="_06211707206">06211707206</string>
+    <string name="mahad_wicaksono">Ma`had Wicaksono, S.Kom., M.Kom</string>
+    <string name="_06812103418">06812103418</string>
+    <string name="andrianto_gusti_pradana">Andianto Gusti Pradana, S.Kom., MMSI</string>
+
+    <string name="widyasari_puspa_permata">Widyasari Puspa Permata Witra, S.Kom., M.Kom</string>
+
+    <!-- Data Mahasiswa -->
+    <string name="_220609009">220609009</string>
+    <string name="_220609006">220609006</string>
+    <string name="_220609005">220609005</string>
+    <string name="muhammad_rohid_nur_fajrian">Muhammad Rohid Nur Fajrian</string>
+    <string name="ahmad_githriff_nibross_vroticca">Ahmad Githriff Nibross Vroticca</string>
+    <string name="ainur_rifki_pratama">Ainur Rifki Pratama</string>
+
+    //Data Muhammad Rohid Nur fajrian
+    <string name="sistem_informasi">Sistem Informasi</string>
+    <string name="laki_laki">Laki-laki</string>
+    <string name="nama_lengkap">Nama Lengkap :</string>
+    <string name="jenis_kelamin">Jenis Kelamin :</string>
+    <string name="prodi">Prodi :</string>
+    <string name="nim">NIM :</string>
+
+
+</resources>
